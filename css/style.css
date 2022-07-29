@@ -52,6 +52,7 @@ h3{
 
 .skills{
   text-align: center;
+  
 }
 
 .nav-item{
@@ -66,6 +67,7 @@ h3{
 .title{
   text-align: left;
   position: relative;
+  overflow-x : hidden;
 }
 
 .title-img{
@@ -73,7 +75,7 @@ h3{
 }
 
 .skill{
-  background-image: url("images/hmm1.png");
+  background-color : #27a9a0;
   padding: 7% 4%;
 }
 
